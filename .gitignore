@@ -1,0 +1,7 @@
+/build/
+/dist/
+/upstream/
+/Payload/
+*.ipa
+*.atlasbackup
+.DS_Store
